@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "Source: Login",
+        "command": "source_login"
+    },{
+        "caption": "Source: Logout",
+        "command": "source_logout"
+    }
+]
